@@ -1,0 +1,10 @@
+.container{
+    width: 100%;
+}
+
+.col {
+    background-color: #2980b9;
+        border: 1px solid #ffffff;
+        color: #ecf0f1;
+        height: 100px;
+}
